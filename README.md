@@ -1,5 +1,5 @@
 # Проект YaMDb
-https://github.com/istillmissyou/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+![example workflow](https://github.com/istillmissyou/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ## Описание
 
