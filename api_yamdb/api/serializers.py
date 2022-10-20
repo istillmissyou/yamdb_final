@@ -1,12 +1,12 @@
 import datetime
 
 from django.db.models import Avg
-from rest_framework import serializers
 from django.shortcuts import get_object_or_404
+from rest_framework import serializers
 from rest_framework.relations import SlugRelatedField
-from rest_framework.validators import UniqueValidator, UniqueTogetherValidator
-
+from rest_framework.validators import UniqueTogetherValidator, UniqueValidator
 from reviews.models import Category, Comment, Genre, Review, Title, User
+
 from api_yamdb.settings import VALIDATE_NAME
 
 

@@ -1,9 +1,7 @@
 from django.contrib.auth.models import AbstractUser
 from django.core.validators import MaxValueValidator, MinValueValidator
 from django.db import models
-
 from reviews.validators import validate_year
-
 
 SCORE_CHOICES = (
     (1, '1'), (2, '2'), (3, '3'), (4, '4'), (5, '5'),
