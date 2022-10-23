@@ -1,5 +1,6 @@
 # Проект YaMDb
-![example workflow](https://github.com/istillmissyou/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![Workflow](https://github.com/istillmissyou/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![Доступ](http://158.160.11.215/)
 
 ## Описание
 
